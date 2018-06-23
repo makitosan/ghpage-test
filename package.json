@@ -1,0 +1,7 @@
+{
+  "name": "ghpage-test",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
