@@ -1,4 +1,4 @@
-console.log('this is webusb.js');
+console.log('webusb.js has been loaded');
 
 const auth = () => {
     const vendorId = 0x0d28;
